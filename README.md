@@ -1,14 +1,22 @@
 ### Opah ! Blz 👋
+Adriano aqui!
 
-Adriano aqui !
+Aprendedor , emprendedor e pesquisador do tema criatividade.
 
-## Aqui são meus contatos <img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />  <img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" /> 	<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"
+# Da uma olhada ai no nos meus repositórios.
+
+## Aqui são meus contatos:
+
+### Veja em quais projetos estou envolvido atualmente | Atualizado em 21/07/2021
+Programa de formação Full Stack Developer |{VtEX e AWS}
+https://www.hiringcoders.com.br/
+
+Programa de Formação Certfied Developer | {Mercado Livre , Globant e Digital House}
+https://assets.digitalhouse.com/content/br/course/certified-tech-developer-parttime.pdf
+
+Bootcamp Santander Full Stack | { Front End e Angular , Java e Spring Boot}
+https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path
 
 
-## Atualmente estudo e programo nas linguagens {[	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white | 	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white | 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E]}
 
-## Consigo trabalhar em projetos com {[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB | 	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white | https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white]}
-
-
-## Hobbie 8 ) : https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white | 	https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white | https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white
 
