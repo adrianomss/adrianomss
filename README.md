@@ -8,7 +8,10 @@ Aprendedor , emprendedor e pesquisador do tema criatividade.
 
 ## Aqui são meus contatos:
 
-# Veja em quais projetos estou envolvido atualmente | Atualizado em 21/07/2021
+Meu site
+https://bincode.com.br/
+
+## Veja em quais projetos estou envolvido atualmente | Atualizado em 21/07/2021
 Programa de formação Full Stack Developer |{VtEX e AWS}
 https://www.hiringcoders.com.br/
 
