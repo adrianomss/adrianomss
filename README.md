@@ -23,12 +23,7 @@ Those who keep learning, will keep rising in life  {Charlie Munger}
   📊My Statistic's</p>
 <p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=adrianomss&show_icons=true&count_private=true&theme=blue" width="400"></a>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomss&layout=compact)](https://github.com/adrianomss/github-readme-stats) 
-</p>
-
-
-
+ </p>
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
