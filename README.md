@@ -3,7 +3,7 @@
   Welcome {💡 : )
 </h2> 
 <h2 align='center'>
-  Opah, blz  Adriano Morais  👨‍💻
+  Opah, blz ! Adriano Morais  👨‍💻
 </h2>
 
 <h3 align="center">
