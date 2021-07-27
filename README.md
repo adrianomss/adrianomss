@@ -1,9 +1,9 @@
 
 <h2 align='center'>
-  Welcome!
+  Welcome {💡 : )
 </h2> 
 <h2 align='center'>
-  Opah, blz 🤜🤛 Adriano Morais 👨‍💻
+  Opah, blz  Adriano Morais  👨‍💻
 </h2>
 
 <h3 align="center">
@@ -23,7 +23,12 @@ Those who keep learning, will keep rising in life  {Charlie Munger}
   📊My Statistic's</p>
 <p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=adrianomss&show_icons=true&count_private=true&theme=blue" width="400"></a>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomss&layout=compact)](https://github.com/adrianomss/github-readme-stats) 
 </p>
+
+
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -75,8 +80,7 @@ Estes são projetos de estudo e programas de formação nos quais estou envolvid
 **{💡 : ) Build and keep learning !!**
 <details>
   <summary>Projects & Tests  🚀</summary>
- ** {💡 : ) Build and keep learning !!**
-  
+   
 ```
 Estes são projetos que desenvolvi recentemente nas linguagens das quais tenho conhecimento.
 ```
