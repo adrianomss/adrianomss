@@ -71,9 +71,12 @@ Estes são projetos de estudo e programas de formação nos quais estou envolvid
 <a href="https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path">🌐 Bootcamp Santander Full Stack | { Front End e Angular , Java e Spring Boot}</a>
 </p>
 
-## Projects & Tests  🚀
-###  {💡 : ) Build and keep learning !!
 
+**{💡 : ) Build and keep learning !!**
+<details>
+  <summary>Projects & Tests  🚀</summary>
+ ** {💡 : ) Build and keep learning !!**
+  
 ```
 Estes são projetos que desenvolvi recentemente nas linguagens das quais tenho conhecimento.
 ```
@@ -104,7 +107,7 @@ Estes são projetos que desenvolvi recentemente nas linguagens das quais tenho c
 **Ecommerce : Formulário e Coontrole de produtos**
 * Repositório:https://amazing-curie-329dfb.netlify.app
 * Deploy:https://amazing-curie-329dfb.netlify.app
-
+</details>
 <p align='center'>
   💻 Tecnologias Utilizadas <br/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
