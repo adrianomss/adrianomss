@@ -1,3 +1,4 @@
+
 <h2 align='center'>
   Welcome!
 </h2> 
@@ -19,7 +20,7 @@ Those who keep learning, will keep rising in life  {Charlie Munger}
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 <p align='center'>
-  📊My Statistic's<br/>
+  📊My Statistic's</p>
 <p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=adrianomss&show_icons=true&count_private=true&theme=blue" width="400"></a>
 </p>
@@ -47,7 +48,8 @@ Those who keep learning, will keep rising in life  {Charlie Munger}
     <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />   
               </a>&nbsp;&nbsp;
   <a href='mailto:adriano.mss@outlook.com'>
-    <img src="https://img.shields.io/badge/Meu email-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />  
+    <img src="https://img.shields.io/badge/Meu email-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>  
+    </p>
     
 ## Workin' On  🔭
 ```
