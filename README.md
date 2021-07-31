@@ -54,7 +54,7 @@ Those who keep learning, will keep rising in life  {Charlie Munger}
 ## Workin' On  🔭
 ```
 Estes são projetos de estudo e programas de formação nos quais estou envolvido atualmente.
-🎓📚 Atualizado em : 26/07/2021
+🎓📚 Atualizado em : 31/07/2021
 ```
 <p align='left'>
 <a href="https://bincode.com.br/">🌐 My Website & Portifólio</a>
