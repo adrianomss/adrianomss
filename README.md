@@ -88,6 +88,12 @@ Estes são projetos que desenvolvi recentemente nas linguagens das quais tenho c
 **LandingPage HiringCoders- Desafio Front-End**
 * Repositório:https://github.com/adrianomss/hiringCoreders
 * Deploy:https://amazing-curie-329dfb.netlify.app 
+  
+ <hr>
+
+**Ecommerce : Formulário e Coontrole de produtos**
+* Repositório:https://amazing-curie-329dfb.netlify.app
+* Deploy:https://hardcore-curie-c31713.netlify.app/
 
 <hr>
 
@@ -101,11 +107,6 @@ Estes são projetos que desenvolvi recentemente nas linguagens das quais tenho c
 * Repositório:https://github.com/adrianomss/todoList-advance-js
 * Deploy:https://adrianomss.github.io/
 
-<hr>
-
-**Ecommerce : Formulário e Coontrole de produtos**
-* Repositório:https://amazing-curie-329dfb.netlify.app
-* Deploy:https://amazing-curie-329dfb.netlify.app
 </details>
 <p align='center'>
   💻 Tecnologias Utilizadas <br/><br/>
